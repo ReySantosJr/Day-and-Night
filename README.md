@@ -4,6 +4,7 @@ This program was a project for my CMSC 325 class in UMGC.
 You will need the JMonkeyEngine in order to use it.
 
 *NOTE*
+
 When you donwload the JMonkeyEngine and run the scene, 
 make sure to put the textures in the 'assets/Textures/' section of the program
 * * *
