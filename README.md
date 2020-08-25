@@ -5,7 +5,7 @@ You will need the JMonkeyEngine in order to use it.
 
 *NOTE: *
 When you download the JMonkeyEngine and run the scene, 
-make sure to put the textures in the 'assets/Textures/' section of the program
+make sure to put the textures in the 'assets/Textures/' section of the program.
 * * *
 
 *Scene Description*
