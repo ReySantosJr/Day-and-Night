@@ -16,3 +16,5 @@ sunny sky with trees in the back with no moon or comet passing by.
 The player can use the WASD keys and mouse too look around the scene. They can also hold 
 down the space bar ti switch the default night setting to daytime.
 
+***The Screenshot Folder will give you a better idea of the program***
+
