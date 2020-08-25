@@ -3,10 +3,12 @@
 This program was a project for my CMSC 325 class in UMGC. 
 You will need the JMonkeyEngine in order to use it.
 
+
+**DOWNLOAD the JMonkeyEngine in order to run this program**
+
 *NOTE: *
-When you download the JMonkeyEngine and run the scene, 
-make sure to put the textures in the 'assets/Textures/' section of the program.
-* * *
+*** When you download the JMonkeyEngine and run the scene, 
+make sure to put the textures in the 'assets/Textures/' section of the program. ***
 
 *Scene Description*
 The program displays a night time setting as stars in the background, a rotating moon with a tree 
